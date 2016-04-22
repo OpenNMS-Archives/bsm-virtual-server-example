@@ -6,8 +6,6 @@ This project provides an example of how a *virtual server* can be modeled using 
 
 In particular, we show how events from multiple sources can be combined to provide an aggregated status for the service, and how such a service can be built using the available APIs.
 
-## Screenshot
-
 ![Business Services in Topology UI](screenshots/hierarchy.png)
 
 ## Example Usage
